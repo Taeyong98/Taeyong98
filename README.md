@@ -1,5 +1,5 @@
 
-[![GitHub followers](https://img.shields.io/github/followers/username?style=social)](https://github.com/Taeyong98)
+[![GitHub followers](https://img.shields.io/github/followers/Taeyong98?style=social)](https://github.com/Taeyong98)
 
 ---
 
